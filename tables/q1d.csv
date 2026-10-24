@@ -1,0 +1,5 @@
+test_set,model,accuracy,mean_confidence_(tree proba / winning vote fraction)
+clean,Single tree,0.5625,0.9536
+clean,Bagging B=100,0.8625,0.3808
+masked,Single tree,0.075,1.0
+masked,Bagging B=100,0.675,0.2561

@@ -1,0 +1,4 @@
+model,clean_test_acc_%,masked_test_acc_%,drop_pp,bias_sq,variance
+Single tree,56.25,7.5,48.75,0.3629,0.6496
+Bagging B=100,86.25,67.5,18.75,0.5071,0.0261
+SAMME depth4 R100,50.0,45.0,5.0,0.8885,0.016

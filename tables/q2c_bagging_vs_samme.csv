@@ -1,0 +1,7 @@
+model,learners,train_acc,val_acc,clean_test_acc,train_time_s
+Bagging,25,1.0,0.8125,0.8,69.98
+SAMME,25,0.5417,0.2875,0.175,21.34
+Bagging,50,1.0,0.825,0.8375,136.13
+SAMME,50,0.9375,0.4125,0.3125,20.41
+Bagging,100,1.0,0.8625,0.8625,125.68
+SAMME,100,1.0,0.575,0.5,39.04

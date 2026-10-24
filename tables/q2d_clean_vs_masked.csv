@@ -1,0 +1,7 @@
+test_set,model,accuracy,mean_winning_vote_or_probability
+clean,Single tree,0.5625,0.9536
+clean,Bagging,0.8625,0.3808
+clean,SAMME,0.5,0.1149
+masked,Single tree,0.075,1.0
+masked,Bagging,0.675,0.2561
+masked,SAMME,0.45,0.1104

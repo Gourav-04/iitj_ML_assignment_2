@@ -1,0 +1,4 @@
+model,bias_sq,variance,mean_test_acc_%,std_test_acc_pp
+Single tree,0.3629,0.6496,49.375,5.5684
+Bagging B=100,0.5071,0.0261,79.1667,4.623
+SAMME depth4 R100,0.8885,0.016,28.1667,9.6308

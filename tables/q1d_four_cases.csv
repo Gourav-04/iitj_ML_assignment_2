@@ -1,0 +1,5 @@
+test_index,true_label,case,single_tree_pred,bagging_pred,bagging_top_vote_count_of_100
+2,1,"single wrong, bagging correct",31,1,58
+5,2,"single wrong, bagging correct",3,2,26
+9,4,both wrong,39,2,20
+20,10,both wrong,31,31,31
