@@ -18,20 +18,19 @@ The following is a suggested structure for the final repository.
 .
 ├── assignment.ipynb
 ├── README.md
-├── requirements.txt               
-├── split_indices.npz           
+├── requirements.txt                          
 ├── X_train.npy.npz
 ├── X_val.npy.npz
 ├── X_test.npy.npz
 ├── baseline_model.joblib
 ├── bagging_model.joblib
 ├── boostingModel.joblib
-├── results/
-│   ├── q1_tree_results.csv
-│   ├── q1_bagging_results.csv
-│   ├── q2_boosting_results.csv
-│   ├── q2c_comparison.csv
+├── model_config.joblib
+├── tables/
+│   ├── q1a.csv
+│   ├── q1d.csv
 │   └── q3_final_comparison.csv
+│    └── ...
 └── figures/
     └── ...                     # exported plots from the notebook
 ```
